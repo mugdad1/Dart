@@ -11,10 +11,8 @@ print("pi number is " + pi);
 String name = "aip club";
 print("the name of the club is "+name);
 print("the name of the club is $name");
-
 String x = "hi";
 print(x);
-
 num y = 4.5;
 print(y);
 
