@@ -34,5 +34,6 @@ print(a-b);
 print(a*b);
 print(a/b);
 print(a%b);
-print(a~/b);//القسمه بدون فاصله
+print(a~/b);//القسمه بدون فاصل
 } 
+
