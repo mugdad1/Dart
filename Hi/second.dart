@@ -38,6 +38,7 @@ void main(List<String> arguments) {
     print("No input for grade.");
   }
 
+  print("hi");
   // Using a for loop to print numbers from 0 to 7
   print("\nUsing a for loop:");
   for (int k = 0; k <= 7; k++) {
